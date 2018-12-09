@@ -1,0 +1,24 @@
+body{
+  background: rgb(255, 222, 74);
+  color: red;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: white;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background:white;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
